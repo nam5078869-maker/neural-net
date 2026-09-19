@@ -1,0 +1,14 @@
+*.o
+test_matrix
+*.dSYM/
+.DS_Store
+neuron
+xor
+mnist_demo
+data/*ubyte
+data/*.gz
+data/_sources.json
+mnist_train
+predict
+model.txt
+bench
